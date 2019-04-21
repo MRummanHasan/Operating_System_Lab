@@ -1,0 +1,9 @@
+c:\users\adeel\documents\visual studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\bin\Debug\Calculator_Marsh.exe.config
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\bin\Debug\Calculator_Marsh.exe
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\bin\Debug\Calculator_Marsh.pdb
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\obj\Debug\Calculator_Marsh.csprojResolveAssemblyReference.cache
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\obj\Debug\Calculator_Marsh.Form1.resources
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\obj\Debug\Calculator_Marsh.Properties.Resources.resources
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\obj\Debug\Calculator_Marsh.csproj.GenerateResource.Cache
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\obj\Debug\Calculator_Marsh.exe
+C:\Users\Adeel\Documents\Visual Studio 2013\Projects\Calculator_Marsh\Calculator_Marsh\obj\Debug\Calculator_Marsh.pdb
