@@ -1,6 +1,0 @@
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\RaceCondition\RaceCondition\bin\Debug\RaceCondition.exe.config
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\RaceCondition\RaceCondition\bin\Debug\RaceCondition.exe
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\RaceCondition\RaceCondition\bin\Debug\RaceCondition.pdb
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\RaceCondition\RaceCondition\obj\Debug\RaceCondition.csprojResolveAssemblyReference.cache
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\RaceCondition\RaceCondition\obj\Debug\RaceCondition.exe
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\RaceCondition\RaceCondition\obj\Debug\RaceCondition.pdb

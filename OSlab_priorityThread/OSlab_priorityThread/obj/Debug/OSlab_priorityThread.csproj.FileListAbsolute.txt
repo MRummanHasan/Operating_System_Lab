@@ -1,6 +1,0 @@
-c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_priorityThread\OSlab_priorityThread\bin\Debug\OSlab_priorityThread.exe.config
-C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\OSlab_priorityThread\OSlab_priorityThread\bin\Debug\OSlab_priorityThread.exe
-C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\OSlab_priorityThread\OSlab_priorityThread\bin\Debug\OSlab_priorityThread.pdb
-C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\OSlab_priorityThread\OSlab_priorityThread\obj\Debug\OSlab_priorityThread.csprojResolveAssemblyReference.cache
-C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\OSlab_priorityThread\OSlab_priorityThread\obj\Debug\OSlab_priorityThread.exe
-C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\OSlab_priorityThread\OSlab_priorityThread\obj\Debug\OSlab_priorityThread.pdb

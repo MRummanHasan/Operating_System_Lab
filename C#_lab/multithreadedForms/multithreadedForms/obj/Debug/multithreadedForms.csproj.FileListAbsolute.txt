@@ -1,0 +1,10 @@
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\bin\Debug\multithreadedForms.exe.config
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.csprojResolveAssemblyReference.cache
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.Form1.resources
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.Form2.resources
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.Properties.Resources.resources
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.csproj.GenerateResource.Cache
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\bin\Debug\multithreadedForms.exe
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\bin\Debug\multithreadedForms.pdb
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.exe
+C:\Users\glab.KIETNN\Desktop\multithreadedForms\multithreadedForms\obj\Debug\multithreadedForms.pdb
