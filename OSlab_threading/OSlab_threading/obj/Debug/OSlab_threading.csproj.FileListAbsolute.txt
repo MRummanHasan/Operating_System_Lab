@@ -1,0 +1,6 @@
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_threading\OSlab_threading\bin\Debug\OSlab_threading.exe.config
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_threading\OSlab_threading\obj\Debug\OSlab_threading.csprojResolveAssemblyReference.cache
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_threading\OSlab_threading\bin\Debug\OSlab_threading.exe
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_threading\OSlab_threading\bin\Debug\OSlab_threading.pdb
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_threading\OSlab_threading\obj\Debug\OSlab_threading.exe
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\OSlab_threading\OSlab_threading\obj\Debug\OSlab_threading.pdb
