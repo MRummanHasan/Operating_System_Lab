@@ -16,28 +16,50 @@ void itos(int, char[]);
 
 int main(void) 
 {
-	int shmid;
+	int sharememid;
 	key_t key;
 	char *shm, *s;
 
+	char dest;
+	char sourc;
+	char msg;
+	char inputcha;
+	
 	key = 2211;
 	fflush(stdin);
-	if((shmid = shmget(key, MAXSIZE, IPC_CREAT | 0666)) < 0)
+	if((sharememid = shmget(key, MAXSIZE, IPC_CREAT | 0666)) < 0)
 		die("shmget");
-	if((shm = shmat(shmid, NULL, 0)) == (char*) -1)
+	if((shm = shmat(sharememid, NULL, 0)) == (char*) -1)
 		die("shmat");
 	
 	for(s = shm; *s != '\0'; s++)
 		putchar(*s); //print char
 
 	char snum[10];
-	itos(shmid, snum); // convert int to string
-	char *str = strcat( snum, "Connect"); // concat shmid with 'Connect'
-//	printf(" %s ",snum);
+	itos(sharememid, snum); // convert int to string
+	char *str = strcat( snum, "Connect"); // concat sharememid with 'Connect'
+	printf(" %s ",snum);
 	strcpy(shm, str); //dest, source
 
+	scanf("%d",&dest);
+	scanf("%d",&sourc);
+	scanf("%d",&msg);
+	
+//	strcpy(s, dest);
+//	strcpy(s, sourc);
+//	strcpy(s, msg);
 
-//	*shm = '*';
+	strcpy(s, "Dest Source Message");
+	printf("%d\n", s);
+	
+	scanf("%c",&inputcha);
+
+//to quit client
+	scanf("%c",&inputcha);
+	while(inputcha != 'Q')
+		*shm = 'Q';
+		sleep(1);
+
 	printf("\n");
 	exit(0);
 }

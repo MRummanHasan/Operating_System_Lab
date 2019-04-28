@@ -34,13 +34,15 @@ int main(void)
 		printf("%c", s[i]);
 	}
 	
-	for(c = 'a'; c <= 'f'; c++) 
-	{
-		*s++ = c;
-		printf("%c\n", c);
-	}
+//	for(c = 'a'; c <= 'd'; c++) 
+//	{
+//		*s++ = c;
+//		printf("%c\n", c);
+//	}
 	
-	while(*shm != '*')
+	
+	
+	while(*shm != 'Q')
 		sleep(1);
 		
 
