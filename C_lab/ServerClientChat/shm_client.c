@@ -20,10 +20,10 @@ int main(void)
 	key_t key;
 	char *shm, *s;
 
-	char dest;
-	char sourc;
-	char msg;
-	char inputcha;
+	char *dest;
+	char *sourc;
+	char *msg;
+	char *inputcha;
 	
 	key = 2211;
 	fflush(stdin);
@@ -41,25 +41,29 @@ int main(void)
 	printf(" %s ",snum);
 	strcpy(shm, str); //dest, source
 
-	scanf("%d",&dest);
-	scanf("%d",&sourc);
-	scanf("%d",&msg);
+	printf("Dest i/p: \n");
+	scanf("%c",&dest);
+	scanf("%c",&sourc);
+	scanf("%c",&msg);
 	
-//	strcpy(s, dest);
+	strcpy(s, dest);
 //	strcpy(s, sourc);
 //	strcpy(s, msg);
 
-	strcpy(s, "Dest Source Message");
+	strcpy(shm, s);
 	printf("%d\n", s);
 	
-	scanf("%c",&inputcha);
+
 
 //to quit client
-	scanf("%c",&inputcha);
-	while(inputcha != 'Q')
-		*shm = 'Q';
-		sleep(1);
-
+	printf("Quit i/p: ");
+	scanf("%c", &inputcha);
+	if(inputcha == '*')
+	{
+		printf("%s",shm);
+		*shm = '*';
+	}
+	
 	printf("\n");
 	exit(0);
 }

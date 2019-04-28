@@ -34,16 +34,25 @@ int main(void)
 		printf("%c", s[i]);
 	}
 	
+	
+	// writing on shared memory(msg board)
+	char hw[11] = "Hello Board";
+	for(int i = 0; i < 11; i++) 
+	{
+		s[i]=hw[i];
+		printf("%c\n", s[i]);
+	}
+
+// writing on shared memory(msg board)	
 //	for(c = 'a'; c <= 'd'; c++) 
 //	{
 //		*s++ = c;
 //		printf("%c\n", c);
 //	}
-	
-	
-	
-	while(*shm != 'Q')
+		
+	while(*shm != '*')
 		sleep(1);
+	*shm='*';
 		
 
 	printf("\n%s",shm);
