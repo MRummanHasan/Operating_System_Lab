@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <ctype.h>
 void main()
 {
 	/*
@@ -21,6 +21,15 @@ void main()
 		a--;
 	}
 	
-
+	// Print A a 1 97
+	/*
+	int ch;
+	ch = 97;
+	for(int i=1;i<27;i++)
+	{
+	    printf("%c %c %i %c \n",toupper(ch),ch,i, ch );
+	    ch++;
+	}
+	*/
 	
 }
