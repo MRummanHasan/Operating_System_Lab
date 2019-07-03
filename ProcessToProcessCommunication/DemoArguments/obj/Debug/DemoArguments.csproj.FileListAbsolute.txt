@@ -1,0 +1,6 @@
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoArguments\bin\Debug\DemoArguments.exe.config
+C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\DemoArguments\bin\Debug\DemoArguments.exe
+C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\DemoArguments\bin\Debug\DemoArguments.pdb
+C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\DemoArguments\obj\Debug\DemoArguments.csprojResolveAssemblyReference.cache
+C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\DemoArguments\obj\Debug\DemoArguments.exe
+C:\Users\glab.KIETNN\Documents\Visual Studio 2012\Projects\DemoArguments\obj\Debug\DemoArguments.pdb

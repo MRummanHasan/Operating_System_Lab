@@ -1,0 +1,6 @@
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoConsumer\bin\Debug\DemoConsumer.exe.config
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoConsumer\bin\Debug\DemoConsumer.exe
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoConsumer\bin\Debug\DemoConsumer.pdb
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoConsumer\obj\Debug\DemoConsumer.csprojResolveAssemblyReference.cache
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoConsumer\obj\Debug\DemoConsumer.exe
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\DemoConsumer\obj\Debug\DemoConsumer.pdb
