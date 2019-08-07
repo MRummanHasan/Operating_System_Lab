@@ -1,0 +1,1 @@
+netsh interface ip set dns "Wi-Fi" static 8.8.8.8
