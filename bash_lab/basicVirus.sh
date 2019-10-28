@@ -7,8 +7,8 @@
 # 
 
 count=0
-while [ true ]
+while [ true ]  #infinite loop initailisation
 do
-`mkdir $count`
-((count++))
+`mkdir $count`  #make a directory with index number as name
+((count++)) #increment the index number
 done
