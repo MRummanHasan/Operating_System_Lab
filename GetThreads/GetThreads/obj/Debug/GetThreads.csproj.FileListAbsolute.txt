@@ -1,0 +1,5 @@
+c:\users\glab\documents\visual studio 2012\Projects\GetThreads\GetThreads\bin\Debug\GetThreads.exe.config
+c:\users\glab\documents\visual studio 2012\Projects\GetThreads\GetThreads\bin\Debug\GetThreads.exe
+c:\users\glab\documents\visual studio 2012\Projects\GetThreads\GetThreads\bin\Debug\GetThreads.pdb
+c:\users\glab\documents\visual studio 2012\Projects\GetThreads\GetThreads\obj\Debug\GetThreads.exe
+c:\users\glab\documents\visual studio 2012\Projects\GetThreads\GetThreads\obj\Debug\GetThreads.pdb

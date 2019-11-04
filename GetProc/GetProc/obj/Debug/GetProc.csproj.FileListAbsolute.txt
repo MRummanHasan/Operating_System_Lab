@@ -1,0 +1,6 @@
+c:\users\glab\documents\visual studio 2012\Projects\GetProc\GetProc\bin\Debug\GetProc.exe.config
+c:\users\glab\documents\visual studio 2012\Projects\GetProc\GetProc\bin\Debug\GetProc.exe
+c:\users\glab\documents\visual studio 2012\Projects\GetProc\GetProc\bin\Debug\GetProc.pdb
+c:\users\glab\documents\visual studio 2012\Projects\GetProc\GetProc\obj\Debug\GetProc.csprojResolveAssemblyReference.cache
+c:\users\glab\documents\visual studio 2012\Projects\GetProc\GetProc\obj\Debug\GetProc.exe
+c:\users\glab\documents\visual studio 2012\Projects\GetProc\GetProc\obj\Debug\GetProc.pdb
